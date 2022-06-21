@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AlgorithmExercises
 {
-    internal class Program
+    internal class AlgorithmicProblems
     #nullable enable
     {
         static void Main(string[] args)
