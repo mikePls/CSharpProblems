@@ -123,7 +123,6 @@ namespace LinkedList
                 {
                     if (current.Next != null)
                     {
-                        Console.WriteLine("bingo");
                         current.Prev.Next = current.Next;
                         current.Next.Prev = current.Prev;
                         return;
