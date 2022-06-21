@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace CollectionProblems
 {
-    internal class Program
+    internal class CollectionProblems
     {
         static void Main(string[] args)
         {
