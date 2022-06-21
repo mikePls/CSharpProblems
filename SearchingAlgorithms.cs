@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SearchingAlgorithms
+namespace Algorithms
 {
-    internal class Program
+    internal class SearchingAlgorithms
 #nullable enable
     {
         static void Main(string[] args)
