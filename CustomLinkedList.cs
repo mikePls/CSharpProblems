@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace LinkedList
 {
-    internal class Program
+    internal class CustomLinkedList
     {
         static void Main(string[] args)
         {
